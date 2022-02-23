@@ -1,0 +1,47 @@
+body{background-color: antiquewhite;
+margin: 0px;
+}
+
+
+
+
+.menu{background-color:#000000;
+	position: fixed;
+height: 75px;
+width: 100%;
+	align-items: center;
+	display: flex;
+	justify-content: center;
+	
+}
+
+.linkler{
+	width: 75%;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	color: white;
+	transition:all ease-in 0.05s;
+
+	
+}
+.linkler a{
+	
+	color:white;
+	 
+}
+
+.linkler a:hover{
+	text-decoration: none;
+	color: #666666;
+	 
+}
+
+img{
+	height: 35px;
+	width: 40px;
+	
+}
+
+
+
